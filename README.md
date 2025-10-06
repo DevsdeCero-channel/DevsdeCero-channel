@@ -10,16 +10,12 @@ He decidido aprender Python pero quiero estudiarlo divirtiéndome. Voy a compart
 
 [![YouTube](https://img.shields.io/badge/Youtube-000?style=for-the-badge)](https://www.youtube.com/@DevsdeCero)[![YouTube](https://img.shields.io/badge/DevsdeCero-3C1EC7?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevsdeCero)
 
-<!--## Vídeos
+## Vídeos
 
-<p align="center">
-  <a href="ENLACE_A_VIDEO_YOUTUBE_1" target="_blank" rel="noopener noreferrer">
-    <img src="URL_MINIATURA_YOUTUBE_1" alt="ALT_TEXT_VIDEO_1" width="200" style="margin-right: 15px;"/>
-  </a>
-  <a href="ENLACE_A_VIDEO_YOUTUBE_2" target="_blank" rel="noopener noreferrer">
-    <img src="URL_MINIATURA_YOUTUBE_2" alt="ALT_TEXT_VIDEO_2" width="200" style="margin-right: 15px;"/>
-  </a>
-  <a href="ENLACE_A_VIDEO_YOUTUBE_3" target="_blank" rel="noopener noreferrer">
-    <img src="URL_MINIATURA_YOUTUBE_3" alt="ALT_TEXT_VIDEO_3" width="200"/>
-  </a>
-</p>-->
+|<a href="https://youtu.be/ZDaW7sgYZzk" target="_blank"><img src="https://img.youtube.com/vi/ZDaW7sgYZzk/maxresdefault.jpg" alt="Aprendo a descargar Python, Git y a crear una cueta en GitHub" width="100%"></a> | <a href="https://youtu.be/bviYkfB7kmA" target="_blank"><img src="https://img.youtube.com/vi/bviYkfB7kmA/maxresdefault.jpg" alt="¿Qué es Python?" width="100%"></a> | <a href="https://youtu.be/SIYNHiLDcjc" target="_blank"><img src="https://img.youtube.com/vi/SIYNHiLDcjc/maxresdefault.jpg" alt="Python desde 0 ¿Por dónde empezar?" width="100%"></a> |
+| :---: | :---: | :---: |
+
+## Contacto
+
+[![Email](https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deceroapros@gmail.com)[![Email](https://img.shields.io/badge/deceroapros@gmail.com-f6f6f6?style=flat)](mailto:deceroapros@gmail.com)
+
