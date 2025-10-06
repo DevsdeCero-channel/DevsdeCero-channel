@@ -1,7 +1,8 @@
-## ¡Hola, Soy Al Rodríguez! 😁
+# <a href="#"><img src="https://raw.githubusercontent.com/DevsdeCero-channel/DevsdeCero-channel/main/android-chrome-192x192.png" alt="Logo DevsdeCero" width="50"/></a> ¡Bienvenido a DevsdeCero!
 
-<!--
-**DevsdeCero-channel/DevsdeCero-channel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Puedes encontrarme en
+
+| **YouTube** | [![YouTube](https://img.shields.io/badge/DevsdeCero-3C1EC7?style=for-the-badge&logo=youtube&logoColor=white)](TU_ENLACE_DE_YOUTUBE) | Mi canal con tutoriales y contenido sobre tecnología. |
 
 Here are some ideas to get you started:
 
