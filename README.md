@@ -10,10 +10,20 @@ He decidido aprender Python pero quiero estudiarlo divirtiéndome. Voy a compart
 
 [![YouTube](https://img.shields.io/badge/Youtube-000?style=for-the-badge)](https://www.youtube.com/@DevsdeCero)[![YouTube](https://img.shields.io/badge/DevsdeCero-3C1EC7?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevsdeCero)
 
+## Aprendizaje interactivo: con ejercicios en Python
+Te animo a utilizar **Python Playground** una sencilla pero potente aplicación que he desarrollado para ti. En la que puedes practicar ejercicios de python para principiantes o ejercicios más avanzados. Empezaremos por un nivel fácil y posiblemente iremos subiendo para no aburrirnos, que de eso se trata. 😁
+
+**¡No pierdas ni un minuto más y empieza a practicar ya!**
+
+[![Python Playground](https://img.shields.io/badge/Practicar%20en%20Python%20Playground-3C1EC7?style=for-the-badge)](https://python-playground-git-main-al-rodriguezs-projects.vercel.app/)[![Desplegado en Vercel](https://img.shields.io/badge/Desplegado%20en%20Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://python-playground-git-main-al-rodriguezs-projects.vercel.app/)
+
+
+
 ## Vídeos
 
 |<a href="https://youtu.be/ZDaW7sgYZzk" target="_blank"><img src="https://img.youtube.com/vi/ZDaW7sgYZzk/maxresdefault.jpg" alt="Aprendo a descargar Python, Git y a crear una cueta en GitHub" width="100%"></a> | <a href="https://youtu.be/bviYkfB7kmA" target="_blank"><img src="https://img.youtube.com/vi/bviYkfB7kmA/maxresdefault.jpg" alt="¿Qué es Python?" width="100%"></a> | <a href="https://youtu.be/SIYNHiLDcjc" target="_blank"><img src="https://img.youtube.com/vi/SIYNHiLDcjc/maxresdefault.jpg" alt="Python desde 0 ¿Por dónde empezar?" width="100%"></a> |
 | :---: | :---: | :---: |
+
 
 ## Contacto
 
