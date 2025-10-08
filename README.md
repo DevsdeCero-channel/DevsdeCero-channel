@@ -15,7 +15,7 @@ Te animo a utilizar **Python Playground** una sencilla pero potente aplicación 
 
 **¡No pierdas ni un minuto más y empieza a practicar ya!**
 
-[![Python Playground](https://img.shields.io/badge/Practicar%20en%20Python%20Playground-3C1EC7?style=for-the-badge)](https://python-playground-git-main-al-rodriguezs-projects.vercel.app/)[![Desplegado en Vercel](https://img.shields.io/badge/Desplegado%20en%20Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://python-playground-git-main-al-rodriguezs-projects.vercel.app/)
+[![Python Playground](https://img.shields.io/badge/Practicar%20en%20Python%20Playground-3C1EC7?style=for-the-badge)](https://python-playground-theta.vercel.app/)[![Desplegado en Vercel](https://img.shields.io/badge/Desplegado%20en%20Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://python-playground-theta.vercel.app/)
 
 
 
