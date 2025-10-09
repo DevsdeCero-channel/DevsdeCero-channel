@@ -11,6 +11,7 @@ He decidido aprender Python pero quiero estudiarlo divirtiéndome. Voy a compart
 [![YouTube](https://img.shields.io/badge/Youtube-000?style=for-the-badge)](https://www.youtube.com/@DevsdeCero)[![YouTube](https://img.shields.io/badge/DevsdeCero-3C1EC7?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevsdeCero)
 
 ## Aprendizaje interactivo: con ejercicios en Python
+<a href="#"><img src="https://raw.githubusercontent.com/DevsdeCero-channel/DevsdeCero-channel/main/git-pp-banner.png" alt="Python Playground banner"/></a>
 Te animo a utilizar **Python Playground** una sencilla pero potente aplicación que he desarrollado para ti. En la que puedes practicar ejercicios de python para principiantes o ejercicios más avanzados. Empezaremos por un nivel fácil y posiblemente iremos subiendo para no aburrirnos, que de eso se trata. 😁
 
 **¡No pierdas ni un minuto más y empieza a practicar ya!**
